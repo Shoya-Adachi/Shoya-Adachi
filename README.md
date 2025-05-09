@@ -24,8 +24,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,postgres,github,vscode,docker,discord,vite" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
 # NOW TRAINING
 
